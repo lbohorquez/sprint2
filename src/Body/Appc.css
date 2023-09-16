@@ -1,0 +1,84 @@
+/*
+.CuerpoPrincipal{
+    background-color: rgb(13, 1, 52);
+} 
+.btn-botonera {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border: none;
+    color: #3282BB;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px 3px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.contenedor_botonera{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+}
+.botonera {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.linea{
+    border-bottom: 2px solid rgb(83, 76, 76);
+    width: 100%;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.titulodia{
+    text-align: center;
+    font-size: 50px;    
+    text-shadow: 2px 2px 3px gray;
+    color: rgb(241, 233, 233);
+    margin-top: 30px;
+}
+
+.ayuda{
+    box-shadow: 0 4px 8px 0 rgba(240, 234, 234, 0.89);
+    width: 92%;
+    margin-left: 4%;    
+    text-align: center;
+    font-family: arial;
+    height: 260px;
+    background-color: #3282BB;
+    box-shadow: 5px 5px 0px 0px black;
+ }
+.button2 {
+    width: 300px;
+    padding: 10px 10px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #000000;
+    background-color: #f6f6f6;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 10px black;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .descarga{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #3282BB;
+
+  }
+
+*/
+
+
+
+
+
+
+
